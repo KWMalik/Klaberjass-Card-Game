@@ -1,0 +1,10 @@
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\bin\Debug\Klaberjass.exe
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\bin\Debug\Klaberjass.pdb
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.CardHand.resources
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.Form1.resources
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.Properties.Resources.resources
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.csproj.GenerateResource.Cache
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.exe
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.pdb
+C:\Users\Victor\Visual Studio 2008\Projects\Klaberjass\Klaberjass\obj\Debug\Klaberjass.PlayerControl.resources

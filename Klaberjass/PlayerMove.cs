@@ -1,0 +1,1 @@
+﻿enum Bid { Pass, Take, Schmeiss, Yes, No };
